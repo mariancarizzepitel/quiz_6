@@ -1,5 +1,4 @@
 {\rtf1\ansi\deff0 {\fonttbl {\f0 Times New Roman;}}
-\paperw15840 \paperh12240 \margl1440 \margr1440 \margt1440 \margb1440 \landscape 
 {\pard Table 2 \par}
 {\pard  \par}
 {\pard\i Regression results using exam as the criterion
@@ -8,30 +7,24 @@
 {
 \trowd \trgaph100
 \clbrdrt\brdrw15\brdrs
-\clvertalc\cellx1368 
+\clvertalc\cellx1440 
 \clbrdrt\brdrw15\brdrs
-\clvertalc\cellx2736 
+\clvertalc\cellx2844 
 \clbrdrt\brdrw15\brdrs
-\clvertalc\cellx4582 
+\clvertalc\cellx3780 
 \clbrdrt\brdrw15\brdrs
-\clvertalc\cellx5446 
+\clvertalc\cellx4716 
 \clbrdrt\brdrw15\brdrs
-\clvertalc\cellx6814 
+\clvertalc\cellx5652 
 \clbrdrt\brdrw15\brdrs
-\clvertalc\cellx7678 
+\clvertalc\cellx6588 
 \clbrdrt\brdrw15\brdrs
-\clvertalc\cellx9046 
-\clbrdrt\brdrw15\brdrs
-\clvertalc\cellx9910 
-\clbrdrt\brdrw15\brdrs
-\clvertalc\cellx11689 
-\pard\sa0\sb0\intbl\qr{Predictor}\cell
+\clvertalc\cellx8748 
+\pard\sa0\sb0\intbl\qr{ }\cell
 \pard\sa0\sb0\intbl\qc{{\i b}}\cell
-\pard\sa0\sb0\intbl\qc{{{\i b}\par}{95% CI\par}[LL, UL]}\cell
+\pard\sa0\sb0\intbl\qc{{\i SE}}\cell
 \pard\sa0\sb0\intbl\qc{{\i beta}}\cell
-\pard\sa0\sb0\intbl\qc{{{\i beta}\par}{95% CI\par}[LL, UL]}\cell
 \pard\sa0\sb0\intbl\qc{{\i sr\super 2 \nosupersub}}\cell
-\pard\sa0\sb0\intbl\qc{{{{\i sr\super 2 \nosupersub}\par}95% CI\par}[LL, UL]}\cell
 \pard\sa0\sb0\intbl\qc{{\i r}}\cell
 \pard\sa0\sb0\intbl\qc{Fit}\cell
 \row
@@ -39,174 +32,160 @@
 {
 \trowd \trgaph100
 \clbrdrt\brdrw15\brdrs
-\clvertalc\cellx1368 
+\clvertalc\cellx1440 
 \clbrdrt\brdrw15\brdrs
-\clvertalc\cellx2736 
+\clvertalc\cellx2844 
 \clbrdrt\brdrw15\brdrs
-\clvertalc\cellx4582 
+\clvertalc\cellx3780 
 \clbrdrt\brdrw15\brdrs
-\clvertalc\cellx5446 
+\clvertalc\cellx4716 
 \clbrdrt\brdrw15\brdrs
-\clvertalc\cellx6814 
+\clvertalc\cellx5652 
 \clbrdrt\brdrw15\brdrs
-\clvertalc\cellx7678 
+\clvertalc\cellx6588 
 \clbrdrt\brdrw15\brdrs
-\clvertalc\cellx9046 
-\clbrdrt\brdrw15\brdrs
-\clvertalc\cellx9910 
-\clbrdrt\brdrw15\brdrs
-\clvertalc\cellx11689 
+\clvertalc\cellx8748 
+\pard\sa0\sb0\intbl\qr{Model 1}\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx561{ }\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx140{ }\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx140{ }\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx140{ }\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx140{ }\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx324{ }\cell
+\row
+}
+{
+\trowd \trgaph100
+\clvertalc\cellx1440 
+\clvertalc\cellx2844 
+\clvertalc\cellx3780 
+\clvertalc\cellx4716 
+\clvertalc\cellx5652 
+\clvertalc\cellx6588 
+\clvertalc\cellx8748 
 \pard\sa0\sb0\intbl\qr{(Intercept)}\cell
-\pard\sa0\sb0\intbl\tqdec\tldot\tx547{49.21**}\cell
-\pard\sa0\sb0\intbl\tqdec\tldot\tx277{[48.09, 50.33]}\cell
-\pard\sa0\sb0\intbl\tqdec\tldot\tx129{}\cell
-\pard\sa0\sb0\intbl\tqdec\tldot\tx205{}\cell
-\pard\sa0\sb0\intbl\tqdec\tldot\tx129{}\cell
-\pard\sa0\sb0\intbl\tqdec\tldot\tx205{}\cell
-\pard\sa0\sb0\intbl\tqdec\tldot\tx129{}\cell
-\pard\sa0\sb0\intbl\tqdec\tldot\tx266{}\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx561{49.21**}\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx140{ 0.57}\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx140{}\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx140{}\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx140{}\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx324{ }\cell
 \row
 }
 {
 \trowd \trgaph100
-\clvertalc\cellx1368 
-\clvertalc\cellx2736 
-\clvertalc\cellx4582 
-\clvertalc\cellx5446 
-\clvertalc\cellx6814 
-\clvertalc\cellx7678 
-\clvertalc\cellx9046 
-\clvertalc\cellx9910 
-\clvertalc\cellx11689 
+\clvertalc\cellx1440 
+\clvertalc\cellx2844 
+\clvertalc\cellx3780 
+\clvertalc\cellx4716 
+\clvertalc\cellx5652 
+\clvertalc\cellx6588 
+\clvertalc\cellx8748 
 \pard\sa0\sb0\intbl\qr{x.centered}\cell
-\pard\sa0\sb0\intbl\tqdec\tldot\tx547{15.25**}\cell
-\pard\sa0\sb0\intbl\tqdec\tldot\tx277{[13.85, 16.66]}\cell
-\pard\sa0\sb0\intbl\tqdec\tldot\tx129{0.61}\cell
-\pard\sa0\sb0\intbl\tqdec\tldot\tx205{[0.55, 0.67]}\cell
-\pard\sa0\sb0\intbl\tqdec\tldot\tx129{.35}\cell
-\pard\sa0\sb0\intbl\tqdec\tldot\tx205{[.29, .41]}\cell
-\pard\sa0\sb0\intbl\tqdec\tldot\tx129{.69**}\cell
-\pard\sa0\sb0\intbl\tqdec\tldot\tx266{}\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx561{15.25**}\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx140{ 0.71}\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx140{0.61}\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx140{.35}\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx140{.69**}\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx324{ }\cell
 \row
 }
 {
 \trowd \trgaph100
-\clvertalc\cellx1368 
-\clvertalc\cellx2736 
-\clvertalc\cellx4582 
-\clvertalc\cellx5446 
-\clvertalc\cellx6814 
-\clvertalc\cellx7678 
-\clvertalc\cellx9046 
-\clvertalc\cellx9910 
-\clvertalc\cellx11689 
+\clvertalc\cellx1440 
+\clvertalc\cellx2844 
+\clvertalc\cellx3780 
+\clvertalc\cellx4716 
+\clvertalc\cellx5652 
+\clvertalc\cellx6588 
+\clvertalc\cellx8748 
 \pard\sa0\sb0\intbl\qr{z.centered}\cell
-\pard\sa0\sb0\intbl\tqdec\tldot\tx547{9.55**}\cell
-\pard\sa0\sb0\intbl\tqdec\tldot\tx277{[7.94, 11.16]}\cell
-\pard\sa0\sb0\intbl\tqdec\tldot\tx129{0.33}\cell
-\pard\sa0\sb0\intbl\tqdec\tldot\tx205{[0.28, 0.39]}\cell
-\pard\sa0\sb0\intbl\tqdec\tldot\tx129{.10}\cell
-\pard\sa0\sb0\intbl\tqdec\tldot\tx205{[.07, .14]}\cell
-\pard\sa0\sb0\intbl\tqdec\tldot\tx129{.49**}\cell
-\pard\sa0\sb0\intbl\tqdec\tldot\tx266{}\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx561{ 9.55**}\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx140{ 0.82}\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx140{0.33}\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx140{.10}\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx140{.49**}\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx324{ }\cell
 \row
 }
 {
 \trowd \trgaph100
-\clvertalc\cellx1368 
-\clvertalc\cellx2736 
-\clvertalc\cellx4582 
-\clvertalc\cellx5446 
-\clvertalc\cellx6814 
-\clvertalc\cellx7678 
-\clvertalc\cellx9046 
-\clvertalc\cellx9910 
-\clvertalc\cellx11689 
+\clvertalc\cellx1440 
+\clvertalc\cellx2844 
+\clvertalc\cellx3780 
+\clvertalc\cellx4716 
+\clvertalc\cellx5652 
+\clvertalc\cellx6588 
+\clvertalc\cellx8748 
 \pard\sa0\sb0\intbl\qr{I(x.centered * z.centered)}\cell
-\pard\sa0\sb0\intbl\tqdec\tldot\tx547{6.05**}\cell
-\pard\sa0\sb0\intbl\tqdec\tldot\tx277{[4.09, 8.01]}\cell
-\pard\sa0\sb0\intbl\tqdec\tldot\tx129{0.17}\cell
-\pard\sa0\sb0\intbl\tqdec\tldot\tx205{[0.11, 0.22]}\cell
-\pard\sa0\sb0\intbl\tqdec\tldot\tx129{.03}\cell
-\pard\sa0\sb0\intbl\tqdec\tldot\tx205{[.01, .05]}\cell
-\pard\sa0\sb0\intbl\tqdec\tldot\tx129{}\cell
-\pard\sa0\sb0\intbl\tqdec\tldot\tx266{}\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx561{ 6.05**}\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx140{ 1.00}\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx140{0.17}\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx140{.03}\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx140{}\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx324{ }\cell
 \row
 }
 {
 \trowd \trgaph100
-\clvertalc\cellx1368 
-\clvertalc\cellx2736 
-\clvertalc\cellx4582 
-\clvertalc\cellx5446 
-\clvertalc\cellx6814 
-\clvertalc\cellx7678 
-\clvertalc\cellx9046 
-\clvertalc\cellx9910 
-\clvertalc\cellx11689 
-\pard\sa0\sb0\intbl\qr{}\cell
-\pard\sa0\sb0\intbl\tqdec\tldot\tx547{}\cell
-\pard\sa0\sb0\intbl\tqdec\tldot\tx277{}\cell
-\pard\sa0\sb0\intbl\tqdec\tldot\tx129{}\cell
-\pard\sa0\sb0\intbl\tqdec\tldot\tx205{}\cell
-\pard\sa0\sb0\intbl\tqdec\tldot\tx129{}\cell
-\pard\sa0\sb0\intbl\tqdec\tldot\tx205{}\cell
-\pard\sa0\sb0\intbl\tqdec\tldot\tx129{}\cell
-\pard\sa0\sb0\intbl\tqdec\tldot\tx266{{\i R\super 2 \nosupersub}  = .617**}\cell
+\clvertalc\cellx1440 
+\clvertalc\cellx2844 
+\clvertalc\cellx3780 
+\clvertalc\cellx4716 
+\clvertalc\cellx5652 
+\clvertalc\cellx6588 
+\clvertalc\cellx8748 
+\pard\sa0\sb0\intbl\qr{ }\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx561{ }\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx140{ }\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx140{ }\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx140{ }\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx140{ }\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx324{{\i R\super 2 \nosupersub} = .617}\cell
 \row
 }
 {
 \trowd \trgaph100
-\clvertalc\cellx1368 
-\clvertalc\cellx2736 
-\clvertalc\cellx4582 
-\clvertalc\cellx5446 
-\clvertalc\cellx6814 
-\clvertalc\cellx7678 
-\clvertalc\cellx9046 
-\clvertalc\cellx9910 
-\clvertalc\cellx11689 
-\pard\sa0\sb0\intbl\qr{}\cell
-\pard\sa0\sb0\intbl\tqdec\tldot\tx547{}\cell
-\pard\sa0\sb0\intbl\tqdec\tldot\tx277{}\cell
-\pard\sa0\sb0\intbl\tqdec\tldot\tx129{}\cell
-\pard\sa0\sb0\intbl\tqdec\tldot\tx205{}\cell
-\pard\sa0\sb0\intbl\tqdec\tldot\tx129{}\cell
-\pard\sa0\sb0\intbl\tqdec\tldot\tx205{}\cell
-\pard\sa0\sb0\intbl\tqdec\tldot\tx129{}\cell
-\pard\sa0\sb0\intbl\tqdec\tldot\tx266{95% CI[.57,.66]}\cell
+\clvertalc\cellx1440 
+\clvertalc\cellx2844 
+\clvertalc\cellx3780 
+\clvertalc\cellx4716 
+\clvertalc\cellx5652 
+\clvertalc\cellx6588 
+\clvertalc\cellx8748 
+\pard\sa0\sb0\intbl\qr{ }\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx561{ }\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx140{ }\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx140{ }\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx140{ }\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx140{ }\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx324{{\i F}(3, 496) = 266.12}\cell
 \row
 }
 {
 \trowd \trgaph100
 \clbrdrb\brdrw15\brdrs
-\clvertalc\cellx1368 
+\clvertalc\cellx1440 
 \clbrdrb\brdrw15\brdrs
-\clvertalc\cellx2736 
+\clvertalc\cellx2844 
 \clbrdrb\brdrw15\brdrs
-\clvertalc\cellx4582 
+\clvertalc\cellx3780 
 \clbrdrb\brdrw15\brdrs
-\clvertalc\cellx5446 
+\clvertalc\cellx4716 
 \clbrdrb\brdrw15\brdrs
-\clvertalc\cellx6814 
+\clvertalc\cellx5652 
 \clbrdrb\brdrw15\brdrs
-\clvertalc\cellx7678 
+\clvertalc\cellx6588 
 \clbrdrb\brdrw15\brdrs
-\clvertalc\cellx9046 
-\clbrdrb\brdrw15\brdrs
-\clvertalc\cellx9910 
-\clbrdrb\brdrw15\brdrs
-\clvertalc\cellx11689 
-\pard\sa0\sb0\intbl\qr{}\cell
-\pard\sa0\sb0\intbl\tqdec\tldot\tx547{}\cell
-\pard\sa0\sb0\intbl\tqdec\tldot\tx277{}\cell
-\pard\sa0\sb0\intbl\tqdec\tldot\tx129{}\cell
-\pard\sa0\sb0\intbl\tqdec\tldot\tx205{}\cell
-\pard\sa0\sb0\intbl\tqdec\tldot\tx129{}\cell
-\pard\sa0\sb0\intbl\tqdec\tldot\tx205{}\cell
-\pard\sa0\sb0\intbl\tqdec\tldot\tx129{}\cell
-\pard\sa0\sb0\intbl\tqdec\tldot\tx266{}\cell
+\clvertalc\cellx8748 
+\pard\sa0\sb0\intbl\qr{ }\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx561{ }\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx140{ }\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx140{ }\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx140{ }\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx140{ }\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx324{ }\cell
 \row
 }
-{\pard \par}{\pard{\i Note.} * indicates {\i p} < .05; ** indicates {\i p} < .01. A significant {\i b}-weight indicates the beta-weight and semi-partial correlation are also significant. {\i b} represents unstandardized regression weights; {\i beta} indicates the standardized regression weights; {\i sr\super 2\nosupersub} represents the semi-partial correlation squared; {\i r} represents the zero-order correlation. {\i LL} and {\i UL} indicate the lower and upper limits of a confidence interval, respectively.\par}
+{\pard \par}{\pard{\i Note.} * indicates {\i p} < .05; ** indicates {\i p} < .01. A significant {\i b}-weight indicates the beta-weight and semi-partial correlation are also significant. {\i b} represents unstandardized regression weights; {\i SE} represents the standard error of the unstandardized regression weights; {\i beta} indicates the beta-weights or standardized regression weights; {\i sr\super 2\nosupersub} represents the semi-partial correlation squared; {\i r} represents the zero-order correlation.\par}
 }
